@@ -2,7 +2,7 @@
 
 Tap a body part to find exercises that work it. Search an exercise to see which muscles it hits. Log your sets to track workouts over time.
 
-**Live demo:** https://roiSela.github.io/fitbodymap/
+**Live demo:** https://roisela.github.io/fitbodymap/
 
 ## Features
 
